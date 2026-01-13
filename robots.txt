@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://satumarsu.github.io/satu-muurinen-kotisivu/sitemap.xml
