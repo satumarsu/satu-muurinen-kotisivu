@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Satu Muurinen</title>
-    <link href="https://satumarsu.github.io/feed.xml" rel="self" />
-    <link href="https://satumarsu.github.io" />
+    <link href="https://satumuurinen.com/feed.xml" rel="self" />
+    <link href="https://satumuurinen.com" />
     <updated>2026-01-08T21:41:10+02:00</updated>
     <author>
         <name>Satu</name>
     </author>
-    <id>https://satumarsu.github.io</id>
+    <id>https://satumuurinen.com</id>
 
     <entry>
         <title>Päässäni on koira, 2025</title>
         <author>
             <name>Satu</name>
         </author>
-        <link href="https://satumarsu.github.io/rebekka-holi-paeaessaeni-on-koira.html"/>
-        <id>https://satumarsu.github.io/rebekka-holi-paeaessaeni-on-koira.html</id>
-        <media:content url="https://satumarsu.github.io/media/posts/15/rebekkaholi1.jpg" medium="image" />
+        <link href="https://satumuurinen.com/rebekka-holi-paeaessaeni-on-koira.html"/>
+        <id>https://satumuurinen.com/rebekka-holi-paeaessaeni-on-koira.html</id>
+        <media:content url="https://satumuurinen.com/media/posts/15/rebekkaholi1.jpg" medium="image" />
 
         <updated>2026-01-08T18:44:45+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://satumarsu.github.io/media/posts/15/rebekkaholi1.jpg" alt="" />
+                        <img src="https://satumuurinen.com/media/posts/15/rebekkaholi1.jpg" alt="" />
                     Directing, screenwriting Tii Taxell Cinematography, editing Peik Pesonius Costume design Satu Muurinen&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://satumarsu.github.io/media/posts/15/rebekkaholi1.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://satumuurinen.com/media/posts/15/rebekkaholi1.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/15/gallery/rebekkaholi2.jpg" data-size="1270x718"><img loading="lazy" src="https://satumarsu.github.io/media/posts/15/gallery/rebekkaholi2-thumbnail.jpg" alt="" width="768" height="434"></a></figure>
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/15/gallery/rebekkaholi3.jpg" data-size="1276x716"><img loading="lazy" src="https://satumarsu.github.io/media/posts/15/gallery/rebekkaholi3-thumbnail.jpg" alt="" width="768" height="431"></a></figure>
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/15/gallery/rebekkaholi4.jpg" data-size="1276x720"><img loading="lazy" src="https://satumarsu.github.io/media/posts/15/gallery/rebekkaholi4-thumbnail.jpg" alt="" width="768" height="433"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/15/gallery/rebekkaholi2.jpg" data-size="1270x718"><img loading="lazy" src="https://satumuurinen.com/media/posts/15/gallery/rebekkaholi2-thumbnail.jpg" alt="" width="768" height="434"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/15/gallery/rebekkaholi3.jpg" data-size="1276x716"><img loading="lazy" src="https://satumuurinen.com/media/posts/15/gallery/rebekkaholi3-thumbnail.jpg" alt="" width="768" height="431"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/15/gallery/rebekkaholi4.jpg" data-size="1276x720"><img loading="lazy" src="https://satumuurinen.com/media/posts/15/gallery/rebekkaholi4-thumbnail.jpg" alt="" width="768" height="433"></a></figure>
 </div></div>
 <p class="align-center"><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" dir="auto"><span class="yt-core-attributed-string--link-inherit-color" dir="auto"><span style="color: #740ccd;">Directing, screenwriting</span> Tii Taxell <br></span></span><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" dir="auto"><span class="yt-core-attributed-string--link-inherit-color" dir="auto"><span style="color: #740ccd;">Cinematography, editing</span> Peik Pesonius <br></span></span><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" dir="auto"><span class="yt-core-attributed-string--link-inherit-color" dir="auto"><span style="color: #740ccd;">Costume design </span>Satu Muurinen <br></span></span><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" dir="auto"><span class="yt-core-attributed-string--link-inherit-color" dir="auto"><span style="color: #740ccd;">Acting</span> Yolanda Correa, Mathilda Kruse, Vilma Paananen, Irina Pulkka, Alberto Rama, Oskari Salmi, Fabian Silén, Rebekka Holi <br><span style="color: #740ccd;">Performing band </span></span></span><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" dir="auto"><span class="yt-core-attributed-string--link-inherit-color" dir="auto">Tuomas Karlsson, Aamu Maunuvaara, Meri Wallenius, Rebekka Holi</span></span></p>
 <p class="align-center">https://www.youtube.com/watch?v=uFatlEHH8As</p>
@@ -43,22 +43,22 @@
         <author>
             <name>Satu</name>
         </author>
-        <link href="https://satumarsu.github.io/costume-sketches.html"/>
-        <id>https://satumarsu.github.io/costume-sketches.html</id>
-        <media:content url="https://satumarsu.github.io/media/posts/14/Jere.jpg" medium="image" />
+        <link href="https://satumuurinen.com/costume-sketches.html"/>
+        <id>https://satumuurinen.com/costume-sketches.html</id>
+        <media:content url="https://satumuurinen.com/media/posts/14/Jere.jpg" medium="image" />
 
         <updated>2026-01-08T18:15:28+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://satumarsu.github.io/media/posts/14/Jere.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://satumuurinen.com/media/posts/14/Jere.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/14/gallery/Tytto.jpg" data-size="2388x1668"><img loading="lazy" src="https://satumarsu.github.io/media/posts/14/gallery/Tytto-thumbnail.jpg" alt="" width="768" height="536"></a></figure>
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/14/gallery/Vanhemmat.jpg" data-size="1680x1668"><img loading="lazy" src="https://satumarsu.github.io/media/posts/14/gallery/Vanhemmat-thumbnail.jpg" alt="" width="768" height="763"></a></figure>
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/14/gallery/Kiki_luonnos1.jpg" data-size="1624x2460"><img loading="lazy" src="https://satumarsu.github.io/media/posts/14/gallery/Kiki_luonnos1-thumbnail.jpg" alt="" width="768" height="1163"></a></figure>
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/14/gallery/Enkeli_luonnos1.jpg" data-size="1565x2297"><img loading="lazy" src="https://satumarsu.github.io/media/posts/14/gallery/Enkeli_luonnos1-thumbnail.jpg" alt="" width="768" height="1127"></a></figure>
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/14/gallery/Neea.jpg" data-size="3043x2048"><img loading="lazy" src="https://satumarsu.github.io/media/posts/14/gallery/Neea-thumbnail.jpg" alt="" width="768" height="517"></a></figure>
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/14/gallery/Trippisetti.jpg" data-size="2037x2293"><img loading="lazy" src="https://satumarsu.github.io/media/posts/14/gallery/Trippisetti-thumbnail.jpg" alt="" width="768" height="865"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/14/gallery/Tytto.jpg" data-size="2388x1668"><img loading="lazy" src="https://satumuurinen.com/media/posts/14/gallery/Tytto-thumbnail.jpg" alt="" width="768" height="536"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/14/gallery/Vanhemmat.jpg" data-size="1680x1668"><img loading="lazy" src="https://satumuurinen.com/media/posts/14/gallery/Vanhemmat-thumbnail.jpg" alt="" width="768" height="763"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/14/gallery/Kiki_luonnos1.jpg" data-size="1624x2460"><img loading="lazy" src="https://satumuurinen.com/media/posts/14/gallery/Kiki_luonnos1-thumbnail.jpg" alt="" width="768" height="1163"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/14/gallery/Enkeli_luonnos1.jpg" data-size="1565x2297"><img loading="lazy" src="https://satumuurinen.com/media/posts/14/gallery/Enkeli_luonnos1-thumbnail.jpg" alt="" width="768" height="1127"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/14/gallery/Neea.jpg" data-size="3043x2048"><img loading="lazy" src="https://satumuurinen.com/media/posts/14/gallery/Neea-thumbnail.jpg" alt="" width="768" height="517"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/14/gallery/Trippisetti.jpg" data-size="2037x2293"><img loading="lazy" src="https://satumuurinen.com/media/posts/14/gallery/Trippisetti-thumbnail.jpg" alt="" width="768" height="865"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -68,20 +68,20 @@
         <author>
             <name>Satu</name>
         </author>
-        <link href="https://satumarsu.github.io/prinsessat-2024.html"/>
-        <id>https://satumarsu.github.io/prinsessat-2024.html</id>
-        <media:content url="https://satumarsu.github.io/media/posts/13/prinsessat_juliste.jpeg" medium="image" />
+        <link href="https://satumuurinen.com/prinsessat-2024.html"/>
+        <id>https://satumuurinen.com/prinsessat-2024.html</id>
+        <media:content url="https://satumuurinen.com/media/posts/13/prinsessat_juliste.jpeg" medium="image" />
 
         <updated>2026-01-08T15:58:41+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://satumarsu.github.io/media/posts/13/prinsessat_juliste.jpeg" alt="" />
+                        <img src="https://satumuurinen.com/media/posts/13/prinsessat_juliste.jpeg" alt="" />
                     Directing, screenwriting Salma Maronen Cinamatography Mika Lehtinen Sound design Ronja Kanttura Editing Aki Särkiniemi Set design&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://satumarsu.github.io/media/posts/13/prinsessat_juliste.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://satumuurinen.com/media/posts/13/prinsessat_juliste.jpeg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center"><span style="color: #740ccd;">Directing, screenwriting<span style="color: #740ccd;"> <span style="color: #000000;">Salma Maronen<br><span style="color: #740ccd;">Cinamatography <span style="color: #000000;">Mika Lehtinen<br><span style="color: #740ccd;">Sound design <span style="color: #000000;">Ronja Kanttura<br><span style="color: #740ccd;">Editing <span style="color: #000000;">Aki Särkiniemi<br><span style="color: #740ccd;">Set design</span> Pinja Aro<br><span style="color: #740ccd;">Costume design </span>Satu Muurinen<br><span style="color: #740ccd;">MUAH</span> Erika Taivaansaari, Roosa Partanen<br></span></span></span></span></span></span></span></span></span><span style="color: #740ccd;"><span style="color: #740ccd;"><span style="color: #000000;"><span style="color: #740ccd;"><span style="color: #000000;"><span style="color: #740ccd;"><span style="color: #000000;"><span style="color: #740ccd;"><span style="color: #000000;"><span style="color: #740ccd;">Original music</span> Mikael Ratilainen<br><span style="color: #740ccd;">Production</span> Maisa Kesäniemi, Elina Lehtinen<br><span style="color: #740ccd;">Actors</span> Elsa Kortelainen, Ella Vierula, Pirjo Niinivirta, Saimi Korkiakangas, Veera Kärpijoki, Tara Salakoski, Aada Lehtonen</span></span></span></span></span></span></span></span></span></p>
             ]]>
         </content>
@@ -91,23 +91,23 @@
         <author>
             <name>Satu</name>
         </author>
-        <link href="https://satumarsu.github.io/illat.html"/>
-        <id>https://satumarsu.github.io/illat.html</id>
-        <media:content url="https://satumarsu.github.io/media/posts/12/illat3.jpeg" medium="image" />
+        <link href="https://satumuurinen.com/illat.html"/>
+        <id>https://satumuurinen.com/illat.html</id>
+        <media:content url="https://satumuurinen.com/media/posts/12/illat3.jpeg" medium="image" />
 
         <updated>2026-01-07T15:00:32+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://satumarsu.github.io/media/posts/12/illat3.jpeg" alt="" />
+                        <img src="https://satumuurinen.com/media/posts/12/illat3.jpeg" alt="" />
                     Directing Miika Karvanen Playwriting Maija Alander Sound design Heikki Turppo Lighting design&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://satumarsu.github.io/media/posts/12/illat3.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://satumuurinen.com/media/posts/12/illat3.jpeg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/12/gallery/illat1.jpeg" data-size="5760x3840"><img loading="lazy" src="https://satumarsu.github.io/media/posts/12/gallery/illat1-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/12/gallery/illat2.jpeg" data-size="5335x3533"><img loading="lazy" src="https://satumarsu.github.io/media/posts/12/gallery/illat2-thumbnail.jpeg" alt="" width="768" height="509"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/12/gallery/illat1.jpeg" data-size="5760x3840"><img loading="lazy" src="https://satumuurinen.com/media/posts/12/gallery/illat1-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/12/gallery/illat2.jpeg" data-size="5335x3533"><img loading="lazy" src="https://satumuurinen.com/media/posts/12/gallery/illat2-thumbnail.jpeg" alt="" width="768" height="509"></a></figure>
 </div></div>
 <p class="align-center"><span class="p"><span style="color: #740ccd;">Directing </span>Miika Karvanen<br><span style="color: #740ccd;">Playwriting</span> Maija Alander<br><span style="color: #740ccd;">Sound design</span> Heikki Turppo<br><span style="color: #740ccd;">Lighting design</span> Katinka Ebbe<br><span style="color: #740ccd;">Scenography </span>Hanna Erämaja<br><span style="color: #740ccd;">Costume design, make up design</span> Satu Muurinen<br><span style="color: #740ccd;">Production</span> Taideyliopiston teatterikorkeakoulu<br><span style="color: #740ccd;">On stage</span> Aapo Salonen, Patrik Hvitsjö, Meri Luukkanen<br><span style="color: #740ccd;">Photos</span> Ella Kiviniemi</span></p>
             ]]>
@@ -118,20 +118,20 @@
         <author>
             <name>Satu</name>
         </author>
-        <link href="https://satumarsu.github.io/murtuma.html"/>
-        <id>https://satumarsu.github.io/murtuma.html</id>
-        <media:content url="https://satumarsu.github.io/media/posts/11/murtuma.jpg" medium="image" />
+        <link href="https://satumuurinen.com/murtuma.html"/>
+        <id>https://satumuurinen.com/murtuma.html</id>
+        <media:content url="https://satumuurinen.com/media/posts/11/murtuma.jpg" medium="image" />
 
         <updated>2026-01-07T14:59:43+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://satumarsu.github.io/media/posts/11/murtuma.jpg" alt="" />
+                        <img src="https://satumuurinen.com/media/posts/11/murtuma.jpg" alt="" />
                     Directing Arman Zafari Screenwriting Veikko Timonen Cinematography Mikael Ahtikari Sound design Pääsky&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://satumarsu.github.io/media/posts/11/murtuma.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://satumuurinen.com/media/posts/11/murtuma.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center"><span class="p"><span style="color: #740ccd;">Directing</span> Arman Zafari<br><span style="color: #740ccd;">Screenwriting</span> Veikko Timonen<br><span style="color: #740ccd;">Cinematography</span> Mikael Ahtikari<br><span style="color: #740ccd;">Sound design</span> Pääsky Piikkilä<br><span style="color: #740ccd;">Editing </span>Jesse Lähilehto<br><span style="color: #740ccd;">Set design</span> Iida Nurminen, Amanda Wirén<br><span style="color: #740ccd;">Costume design</span> Satu Muurinen, Pupu Kilpeläinen<br><span style="color: #740ccd;">MUAH </span>Maria Sirén<br><span style="color: #740ccd;">Production </span>Sakri Arkimies, Aleksi Pulkkinen<br><span style="color: #740ccd;">Actors</span> Seidi Haarla, Tommi Korpela, Oscar Steidle, Milo Snellman, Elmer Bäck, Kristiina Halkola</span></p>
             ]]>
         </content>
@@ -141,20 +141,20 @@
         <author>
             <name>Satu</name>
         </author>
-        <link href="https://satumarsu.github.io/ilo-pillerin-taikatemppu.html"/>
-        <id>https://satumarsu.github.io/ilo-pillerin-taikatemppu.html</id>
-        <media:content url="https://satumarsu.github.io/media/posts/10/ilo-juliste.jpeg" medium="image" />
+        <link href="https://satumuurinen.com/ilo-pillerin-taikatemppu.html"/>
+        <id>https://satumuurinen.com/ilo-pillerin-taikatemppu.html</id>
+        <media:content url="https://satumuurinen.com/media/posts/10/ilo-juliste.jpeg" medium="image" />
 
         <updated>2026-01-07T14:58:36+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://satumarsu.github.io/media/posts/10/ilo-juliste.jpeg" alt="" />
+                        <img src="https://satumuurinen.com/media/posts/10/ilo-juliste.jpeg" alt="" />
                     Directing Veikko Timonen Screenwriting Veikko Timonen, Kasperi Riihimäki Cinematography Johanna Holvikallio Sound&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://satumarsu.github.io/media/posts/10/ilo-juliste.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://satumuurinen.com/media/posts/10/ilo-juliste.jpeg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center"><span class="p"><span style="color: #740ccd;">Directing</span> Veikko Timonen<br><span style="color: #740ccd;">Screenwriting</span> Veikko Timonen, Kasperi Riihimäki<br><span style="color: #740ccd;">Cinematography </span>Johanna Holvikallio<br><span style="color: #740ccd;">Sound design</span> Jaanis Hållman<br><span style="color: #740ccd;">Editing </span>James Coker<br><span style="color: #740ccd;">Set design </span>Iida Nurminen<br><span style="color: #740ccd;">Costume design </span>Satu Muurinen<br><span style="color: #740ccd;">MUAH</span> Eeva Kuronen<br><span style="color: #740ccd;">Original music </span>Emil Sana<br><span style="color: #740ccd;">Production</span> Sakri Arkimies, Linnea Salonen, Kasperi Riihimäki<br><span style="color: #740ccd;">Actors</span> Matleena Kuusniemi, Jalmari Honka, Tatu Mönttinen</span></p>
             ]]>
         </content>
@@ -164,24 +164,24 @@
         <author>
             <name>Satu</name>
         </author>
-        <link href="https://satumarsu.github.io/maennistoen-koti-yksi-pelastui.html"/>
-        <id>https://satumarsu.github.io/maennistoen-koti-yksi-pelastui.html</id>
-        <media:content url="https://satumarsu.github.io/media/posts/9/maennistoe2.jpeg" medium="image" />
+        <link href="https://satumuurinen.com/maennistoen-koti-yksi-pelastui.html"/>
+        <id>https://satumuurinen.com/maennistoen-koti-yksi-pelastui.html</id>
+        <media:content url="https://satumuurinen.com/media/posts/9/maennistoe2.jpeg" medium="image" />
 
         <updated>2026-01-07T14:57:53+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://satumarsu.github.io/media/posts/9/maennistoe2.jpeg" alt="" />
+                        <img src="https://satumuurinen.com/media/posts/9/maennistoe2.jpeg" alt="" />
                     Playwriting, directing Ismael Peura Dramaturgy Maija Alander Sound design Miia Junes Lighting&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://satumarsu.github.io/media/posts/9/maennistoe2.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://satumuurinen.com/media/posts/9/maennistoe2.jpeg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/9/gallery/maennistoe1.jpg" data-size="1267x826"><img loading="lazy" src="https://satumarsu.github.io/media/posts/9/gallery/maennistoe1-thumbnail.jpg" alt="" width="768" height="501"></a></figure>
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/9/gallery/maennistoe3.jpeg" data-size="1359x838"><img loading="lazy" src="https://satumarsu.github.io/media/posts/9/gallery/maennistoe3-thumbnail.jpeg" alt="" width="768" height="474"></a></figure>
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/9/gallery/maennistoe4.jpeg" data-size="1257x838"><img loading="lazy" src="https://satumarsu.github.io/media/posts/9/gallery/maennistoe4-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/9/gallery/maennistoe1.jpg" data-size="1267x826"><img loading="lazy" src="https://satumuurinen.com/media/posts/9/gallery/maennistoe1-thumbnail.jpg" alt="" width="768" height="501"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/9/gallery/maennistoe3.jpeg" data-size="1359x838"><img loading="lazy" src="https://satumuurinen.com/media/posts/9/gallery/maennistoe3-thumbnail.jpeg" alt="" width="768" height="474"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/9/gallery/maennistoe4.jpeg" data-size="1257x838"><img loading="lazy" src="https://satumuurinen.com/media/posts/9/gallery/maennistoe4-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
 </div></div>
 <p class="align-center"><span class="p"><span style="color: #740ccd;">Playwriting, directing</span> Ismael Peura<br><span style="color: #740ccd;">Dramaturgy</span> Maija Alander<br><span style="color: #740ccd;">Sound design </span>Miia Junes<br><span style="color: #740ccd;">Lighting design</span> Erno Seppälä<br><span style="color: #740ccd;">Scenography</span> Hanna Erämaja<br><span style="color: #740ccd;">Costume design, make up design </span>Satu Muurinen<br><span style="color: #740ccd;">Production</span> Taideyliopiston teatterikorkeakoulu<br><span style="color: #740ccd;">On stage </span>Emma Pälsynaho, Alexandra Oupornikova, AKseli Ilvesniemi, Taisto Oksanen<br><span style="color: #740ccd;">Photos </span>Pate Pesonius</span></p>
             ]]>
@@ -192,24 +192,24 @@
         <author>
             <name>Satu</name>
         </author>
-        <link href="https://satumarsu.github.io/a-scarecrow-in-a-garden-of-cucumbers-keepeth-nothing-or-a-blip.html"/>
-        <id>https://satumarsu.github.io/a-scarecrow-in-a-garden-of-cucumbers-keepeth-nothing-or-a-blip.html</id>
-        <media:content url="https://satumarsu.github.io/media/posts/8/aco1.JPG" medium="image" />
+        <link href="https://satumuurinen.com/a-scarecrow-in-a-garden-of-cucumbers-keepeth-nothing-or-a-blip.html"/>
+        <id>https://satumuurinen.com/a-scarecrow-in-a-garden-of-cucumbers-keepeth-nothing-or-a-blip.html</id>
+        <media:content url="https://satumuurinen.com/media/posts/8/aco1.JPG" medium="image" />
 
         <updated>2026-01-07T14:55:55+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://satumarsu.github.io/media/posts/8/aco1.JPG" alt="" />
+                        <img src="https://satumuurinen.com/media/posts/8/aco1.JPG" alt="" />
                     Choreography Kadence Neill Sound design Ilja Pippa Lighting design Katinka Ebbe Scenography&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://satumarsu.github.io/media/posts/8/aco1.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://satumuurinen.com/media/posts/8/aco1.JPG" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/8/gallery/aco2.JPG" data-size="3360x2240"><img loading="lazy" src="https://satumarsu.github.io/media/posts/8/gallery/aco2-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/8/gallery/aco3.JPG" data-size="3360x2240"><img loading="lazy" src="https://satumarsu.github.io/media/posts/8/gallery/aco3-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://satumarsu.github.io/media/posts/8/gallery/aco4.JPG" data-size="3360x2240"><img loading="lazy" src="https://satumarsu.github.io/media/posts/8/gallery/aco4-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/8/gallery/aco2.JPG" data-size="3360x2240"><img loading="lazy" src="https://satumuurinen.com/media/posts/8/gallery/aco2-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/8/gallery/aco3.JPG" data-size="3360x2240"><img loading="lazy" src="https://satumuurinen.com/media/posts/8/gallery/aco3-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://satumuurinen.com/media/posts/8/gallery/aco4.JPG" data-size="3360x2240"><img loading="lazy" src="https://satumuurinen.com/media/posts/8/gallery/aco4-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
 </div></div>
 <p class="align-center"><span class="p"><span style="color: #740ccd;">Choreography</span> Kadence Neill<br><span style="color: #740ccd;">Sound design </span>Ilja Pippa<br><span style="color: #740ccd;">Lighting design</span> Katinka Ebbe<br><span style="color: #740ccd;">Scenography </span>Anni Hernetkoski<br><span style="color: #740ccd;">Costume design, make up design</span> Satu Muurinen<br><span style="color: #740ccd;">Production</span> Taideyliopiston teatterikorkeakoulu<br><span style="color: #740ccd;">On stage </span>Anniina Dyster, Nella Matleena, Elias Berglund, Miska Palsio, Joma Richter, Valtteri Juvonen<br><span style="color: #740ccd;">Photos<span style="color: #000000;"> Daniel Motola</span></span></span><span class="p"><br></span></p>
             ]]>
@@ -220,20 +220,20 @@
         <author>
             <name>Satu</name>
         </author>
-        <link href="https://satumarsu.github.io/totuuksia.html"/>
-        <id>https://satumarsu.github.io/totuuksia.html</id>
-        <media:content url="https://satumarsu.github.io/media/posts/7/totuuksia-2.jpg" medium="image" />
+        <link href="https://satumuurinen.com/totuuksia.html"/>
+        <id>https://satumuurinen.com/totuuksia.html</id>
+        <media:content url="https://satumuurinen.com/media/posts/7/totuuksia-2.jpg" medium="image" />
 
         <updated>2026-01-07T14:53:54+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://satumarsu.github.io/media/posts/7/totuuksia-2.jpg" alt="" />
+                        <img src="https://satumuurinen.com/media/posts/7/totuuksia-2.jpg" alt="" />
                     Directing Annika Miettinen Screenwriting Julia Matinnniemi, Rusul al Nassar Cinematography Nadia Farghaly&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://satumarsu.github.io/media/posts/7/totuuksia-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://satumuurinen.com/media/posts/7/totuuksia-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center"><span class="p"><span style="color: #740ccd;">Directing</span> Annika Miettinen<br><span style="color: #740ccd;">Screenwriting</span> Julia Matinnniemi, Rusul al Nassar<br><span style="color: #740ccd;">Cinematography</span> Nadia Farghaly<br><span style="color: #740ccd;">Sound design</span> Laura Torkkola<br><span style="color: #740ccd;">Editing</span> Julia Matinniemi<br><span style="color: #740ccd;">Set design</span> Hanna Erämaja<br><span style="color: #740ccd;">Costume design</span> Satu Muurinen<br><span style="color: #740ccd;">MUAH</span> Sara Pettersson<br><span style="color: #740ccd;">Original music </span>Kasimir Kemppainen<br><span style="color: #740ccd;">Production </span>Aamu Milonoff, Myrsky Virmavirta<br><span style="color: #740ccd;">Actors</span> Aamu Milonoff, Jasir Osman, Petteri Lassila, Meri Luukkanen, Ville Vuorikoski, Antti Virmavirta</span></p>
             ]]>
         </content>
@@ -243,20 +243,20 @@
         <author>
             <name>Satu</name>
         </author>
-        <link href="https://satumarsu.github.io/vieras.html"/>
-        <id>https://satumarsu.github.io/vieras.html</id>
-        <media:content url="https://satumarsu.github.io/media/posts/4/fb4ef8b1-2.jpg" medium="image" />
+        <link href="https://satumuurinen.com/vieras.html"/>
+        <id>https://satumuurinen.com/vieras.html</id>
+        <media:content url="https://satumuurinen.com/media/posts/4/fb4ef8b1-2.jpg" medium="image" />
 
         <updated>2025-12-28T18:55:05+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://satumarsu.github.io/media/posts/4/fb4ef8b1-2.jpg" alt="" />
+                        <img src="https://satumuurinen.com/media/posts/4/fb4ef8b1-2.jpg" alt="" />
                     Directing Arman Zafari Screenwriting Veikko Timonen, Arman Zafari Cinematography Arttu Liimatta Sound&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://satumarsu.github.io/media/posts/4/fb4ef8b1-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://satumuurinen.com/media/posts/4/fb4ef8b1-2.jpg" class="type:primaryImage" alt="" /></p>
                 <div>
 <p class="align-center"><span style="color: #740ccd;">Directing</span><span style="font-size: inherit;"> Arman Zafari</span></p>
 </div>

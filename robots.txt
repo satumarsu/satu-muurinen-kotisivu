@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://satumarsu.github.io/sitemap.xml
+Sitemap: https://satumuurinen.com/sitemap.xml
